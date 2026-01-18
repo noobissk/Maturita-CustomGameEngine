@@ -1,0 +1,3 @@
+[submodule "OGLOG-Engine"]
+	path = OGLOG-Engine
+	url = https://github.com/noobissk/OGLOG-Engine.git
